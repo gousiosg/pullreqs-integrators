@@ -1,4 +1,4 @@
-## pullreqs-integrators-survey
+## Pull Request Integrators survey data
 
 A repository with survey data for how project owners (integrators) use pull
 requests on Github. The repository corresponds to data and code used for the
