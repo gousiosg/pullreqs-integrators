@@ -38,12 +38,15 @@ the work behind this dataset as follows:
 
 ```
 @inproceedings{GZSD15,
-  author = {Gousios, Georgios and Zaidman, Andy and Storey, Margaret-Anne and Deursen, Arie van},
+  author = {Gousios, Georgios and Zaidman, Andy and Storey, Margaret-Anne and van Deursen, Arie},
   title = {Work Practices and Challenges in Pull-Based Development: The Integrator’s Perspective},
   booktitle = {Proceedings of the 37th International Conference on Software Engineering},
-  series = {ICSE 2015},
+  series = {ICSE},
   year = {2015},
+  month = may,
+  volume = {1},
+  pages = {358-368},
   location = {Florence, Italy},
-  note = {To appear}
+  doi = {10.1109/ICSE.2015.55}
 }
 ```
